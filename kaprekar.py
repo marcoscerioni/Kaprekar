@@ -1,6 +1,3 @@
-import math
-
-
 # Colores para imprimir en la terminal.
 class bcolors:
     HEADER = '\033[95m'
@@ -73,6 +70,3 @@ while (new_number != 6174):
     min_number(new_number), "           ", new_number)
 
 print("\nSe necesitaron ", pasos,  " pasos para resolverlo")
-
-			
-			
